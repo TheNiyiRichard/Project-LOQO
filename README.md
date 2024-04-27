@@ -21,4 +21,4 @@ the latest automotive trends, this website provides an immersive and engaging ex
 This project is actively maintained and open for contributions. Feel free to explore the code, provide feedback, or contribute enhancements to make the car website even better!
 
 ### Demo
-Click Here[](https://theniyirichard.github.io/Project-LOQO/)
+Click [Here](https://theniyirichard.github.io/Project-LOQO/)
